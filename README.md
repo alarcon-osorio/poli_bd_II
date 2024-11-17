@@ -1,4 +1,4 @@
-#Credenciales de Conexion Local
+## Credenciales de Conexion Local
 
 Server=localhost,1433;Database=master;User Id=sa;Password=Contrasena123;
 
